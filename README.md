@@ -1,4 +1,4 @@
-# 🚀 Osama Elsayed  – Supply Chain Executive & Board Chairman  
+# 🚀 Osama Elsayed Ebrahim Mohamed – Supply Chain Executive & Board Chairman  
 *Based in Dubai & Ajman, UAE | Former Chairman in Egypt | Driving MEP and Logistics into the Future*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama261caryp&show_icons=true&theme=default)  
@@ -10,7 +10,8 @@
 
 ## 👤 About Me
 
-Results-driven Procurement & Supply Chain Leader with over **16 years** of experience. I specialize in:
+Results-driven Procurement & Supply Chain Leader with over **16 years** of experience.  
+I specialize in:
 
 - Procurement optimization  
 - Inventory centralization  
@@ -25,16 +26,15 @@ I have held **Chairman positions in three Egyptian companies** and played a hist
 
 - **Procurement Manager – Al Hoson Group**  
   📍 Dubai, UAE | 📅 Sep 2023 – Present  
-  Leading both procurement and warehouse operations across all divisions.  
-  Responsible for sourcing strategy, supplier negotiations, PO lifecycle, material delivery, and logistics.  
-  Successfully implemented centralized inventory and reduced vendor lead times by 30%.
+  Leading both **procurement** and **warehouse operations** across all group divisions.  
+  Responsible for sourcing strategies, vendor selection, PO lifecycle, logistics, and material handling.  
+  Successfully implemented centralized inventory and reduced vendor lead times by **30%**.
 
 - **Chairman of the Board – Octopart Company**  
 - **Chairman of the Board – Zain International Company**  
 - **Chairman of the Board – Resala Company**  
   📍 Cairo, Egypt | 📅 2019 – 2023  
-  Simultaneously led board-level direction, procurement, and operations for three technical supply companies.  
-  Oversaw strategy, vendor development, and structure setup across multiple entities in the electronic components sector.
+  Directed board-level strategy, sourcing, and structure across three electronics and technical supply companies.
 
 - **Procurement Head – Energy Eco Egypt**  
   📍 Cairo, Egypt | 📅 Jan 2021 – Aug 2023  
@@ -49,53 +49,44 @@ I have held **Chairman positions in three Egyptian companies** and played a hist
   Awarded “Quarterly Performance Excellence” in 2016.
 
 - **Foreign Purchasing Specialist – Elsewedy Transformers**  
-  📍 Cairo, Egypt | 📅 Jan 2014 – Jul 2015  
-  Managed key vendor relations and imports.
+  📍 Cairo, Egypt | 📅 Jan 2014 – Jul 2015
 
 - **Planning Specialist – Elsewedy Transformers**  
-  📍 Cairo, Egypt | 📅 Jun 2008 – Dec 2013  
-  Improved scheduling KPIs; initiated dry-type transformer production with Chinese partnership.
+  📍 Cairo, Egypt | 📅 Jun 2008 – Dec 2013
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-- **Technology Transfer Lead – TBEA, China**  
-  📅 June 2008  
-  Led the first-ever dry transformer tech transfer project from China (TBEA) to the Middle East.
+- **Technology Transfer Lead – TBEA, China (2008)**  
+  First dry transformer tech transfer to the Middle East.
 
-- **Dry Transformer Mould Design – TBEA China (Tianjin/Shenyang)**  
-  📅 June 2011  
-  Completed with “Excellent” rating under official Egypt-China agreement.
+- **Dry Transformer Mould Design – TBEA, Tianjin/Shenyang (2011)**  
+  Completed with “Excellent” rating.
 
-- **Lean Six Sigma Green Belt – Elsewedy Transformers**  
-  📅 2013  
+- **Lean Six Sigma Green Belt – Elsewedy (2013)**
 
-- **Quarterly Performance Award – Misr Pyramids Group**  
-  📅 2016  
-  Honored for commitment, achievement, and consistent contribution.
+- **Quarterly Performance Award – Misr Pyramids Group (2016)**
 
 ---
 
 ## 🎓 Education
 
 - **B.Sc. in Commerce – Accounting & Business Management**  
-  📍 Zagazig University | Egypt  
-  📅 Graduated 2013 (Excellent with Honors)
+  Zagazig University | Egypt (2013)
 
-- **Industrial Technical Diploma – Ministry of Education, Egypt**  
-  📍 Al Sharkia | Industrial Department
+- **Industrial Technical Diploma – Ministry of Education, Egypt**
 
 ---
 
 ## 🔧 Skills
 
 - Procurement & Vendor Strategy  
-- Inventory Centralization & Forecasting  
-- ERP: Microsoft Dynamics 365, Custom APIs  
-- BI & Automation: Power BI, Python  
-- Modular Construction Design (BIM & Containers)  
-- Cross-Border Negotiation & Tech Transfer  
+- ERP (Microsoft Dynamics 365)  
+- Power BI & Python  
+- Inventory & Warehouse Control  
+- Modular Construction & BIM  
+- Cross-Border Negotiation  
 
 ---
 
@@ -111,7 +102,7 @@ I have held **Chairman positions in three Egyptian companies** and played a hist
 
 - 📱 **Mobile (Work):** +971 56 800 7399  
 - 📱 **Mobile (Personal):** 056 103 0547  
-- 📧 **Email:** osama261261@gmail.com  
+- 📧 **Email:** osama261261@gmail.com
 
 ---
 
