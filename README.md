@@ -1,72 +1,106 @@
-from pathlib import Path
+# 🚀 Osama Elsayed  – Supply Chain Executive & Board Chairman  
+*Based in Dubai & Ajman, UAE | Former Chairman in Egypt | Driving MEP and Logistics into the Future*
 
-# Final updated README content
-final_readme = """# 🚀 Osama Elsayed Ebrahim Mohamed – Supply Chain Leader & Board Chairman  
-*Based in Dubai & Ajman, UAE | Driving MEP Contracting into the Future*
-
-![Osama’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Osama261caryp&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama261caryp&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Osama261caryp&layout=compact)  
 ![Visitor Count](https://profile-counter.glitch.me/Osama261caryp/count.svg)  
-[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00c7b7?logo=netlify)](https://www.netlify.com/)  
-[![CI Status](https://github.com/Osama261caryp/Osama261caryp/actions/workflows/ci.yml/badge.svg)](https://github.com/Osama261caryp/Osama261caryp/actions/workflows/ci.yml)
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00c7b7?logo=netlify)](https://www.netlify.com/)
 
 ---
 
-## About Me
-With **16+ years** of global experience in supply chain and procurement—and since **September 2023** in the UAE—I lead MEP logistics, procurement digitization, and cost control. Previously served as Board Chairman and partner in three Egyptian electronics supply companies. Passionate about ERP, analytics, and unlocking operational efficiency.
+## 👤 About Me
+
+Results-driven Procurement & Supply Chain Leader with over **16 years** of experience. I specialize in:
+
+- Procurement optimization  
+- Inventory centralization  
+- Cross-border technology transfer  
+- MEP logistics and ERP systems  
+
+I have held **Chairman positions in three Egyptian companies** and played a historic role in **transferring dry-type transformer manufacturing technology from China to Egypt**.
 
 ---
 
-## Experience Highlights
+## 🧑‍💼 Experience
 
-- **Procurement Manager, Al Hoson Group**  
-  📅 Sep 2023 – Present | Dubai, UAE  
-  Spearheaded procurement digitization and centralized inventory systems across MEP operations.
-
-- **Procurement Head, Energy Eco Egypt**  
-  📅 Jan 2021 – Aug 2023 | Cairo, Egypt  
-  Optimized vendor contracts; delivered consistent 12% cost savings.
-
-- **Supply Chain Manager, International Technology Group (ITG)**  
-  📅 Nov 2017 – Dec 2020 | Cairo, Egypt  
-  Managed Egypt’s first certified e-waste recycling facility; expanded throughput by 25%.
+- **Procurement Manager – Al Hoson Group**  
+  📍 Dubai, UAE | 📅 Sep 2023 – Present  
+  Leading both procurement and warehouse operations across all divisions.  
+  Responsible for sourcing strategy, supplier negotiations, PO lifecycle, material delivery, and logistics.  
+  Successfully implemented centralized inventory and reduced vendor lead times by 30%.
 
 - **Chairman of the Board – Octopart Company**  
 - **Chairman of the Board – Zain International Company**  
 - **Chairman of the Board – Resala Company**  
-  📅 2019 – 2023 | Cairo, Egypt  
+  📍 Cairo, Egypt | 📅 2019 – 2023  
   Simultaneously led board-level direction, procurement, and operations for three technical supply companies.  
   Oversaw strategy, vendor development, and structure setup across multiple entities in the electronic components sector.
 
-- **Supply Chain Specialist, Misr Pyramids Group – Nivea**  
-  📅 Aug 2015 – Sep 2017 | Cairo, Egypt  
-  Streamlined supplier onboarding and reduced lead time by 18%.
+- **Procurement Head – Energy Eco Egypt**  
+  📍 Cairo, Egypt | 📅 Jan 2021 – Aug 2023  
+  Achieved 12% savings through strategic supplier renegotiation.
 
-- **Logistics Specialist, Elsewedy Transformers**  
-  📅 Jan 2014 – Jul 2015 | Cairo, Egypt  
-  Supervised shipping/customs operations for transformer exports.
+- **Supply Chain Manager – International Technology Group (ITG)**  
+  📍 Cairo, Egypt | 📅 Nov 2017 – Dec 2020  
+  Helped develop Egypt's e-waste recycling model; introduced centralized logistics.
 
-- **Planning Specialist, Elsewedy Transformers**  
-  📅 Jun 2008 – Dec 2013 | Cairo, Egypt  
+- **Supply Chain Specialist – Misr Pyramids Group (Nivea Egypt)**  
+  📍 Cairo, Egypt | 📅 Aug 2015 – Sep 2017  
+  Awarded “Quarterly Performance Excellence” in 2016.
+
+- **Foreign Purchasing Specialist – Elsewedy Transformers**  
+  📍 Cairo, Egypt | 📅 Jan 2014 – Jul 2015  
+  Managed key vendor relations and imports.
+
+- **Planning Specialist – Elsewedy Transformers**  
+  📍 Cairo, Egypt | 📅 Jun 2008 – Dec 2013  
   Improved scheduling KPIs; initiated dry-type transformer production with Chinese partnership.
 
 ---
 
-## Training & Certifications
-- **Chairman of the Board (per Egyptian passport)** – A32487402  
-- **Dry Transformer Mould Design**, TBEA, China – June 2011  
-- **Technology Transfer Trainee**, TBEA, China – 2008  
-- **Lean Six Sigma Green Belt**, Elsewedy Transformers – 2013  
+## 🏅 Certifications & Achievements
+
+- **Technology Transfer Lead – TBEA, China**  
+  📅 June 2008  
+  Led the first-ever dry transformer tech transfer project from China (TBEA) to the Middle East.
+
+- **Dry Transformer Mould Design – TBEA China (Tianjin/Shenyang)**  
+  📅 June 2011  
+  Completed with “Excellent” rating under official Egypt-China agreement.
+
+- **Lean Six Sigma Green Belt – Elsewedy Transformers**  
+  📅 2013  
+
+- **Quarterly Performance Award – Misr Pyramids Group**  
+  📅 2016  
+  Honored for commitment, achievement, and consistent contribution.
 
 ---
 
-## Core Skills
-- Strategic Sourcing · ERP Implementation (D365) · Forecasting (Power BI, Python)  
-- Modular Home Design · Inventory Optimization · Supplier Negotiation · Technical Procurement  
+## 🎓 Education
+
+- **B.Sc. in Commerce – Accounting & Business Management**  
+  📍 Zagazig University | Egypt  
+  📅 Graduated 2013 (Excellent with Honors)
+
+- **Industrial Technical Diploma – Ministry of Education, Egypt**  
+  📍 Al Sharkia | Industrial Department
 
 ---
 
-## Projects
+## 🔧 Skills
+
+- Procurement & Vendor Strategy  
+- Inventory Centralization & Forecasting  
+- ERP: Microsoft Dynamics 365, Custom APIs  
+- BI & Automation: Power BI, Python  
+- Modular Construction Design (BIM & Containers)  
+- Cross-Border Negotiation & Tech Transfer  
+
+---
+
+## 📂 Projects
+
 - **[Centralized Inventory Dashboard](https://github.com/Osama261caryp/centralized-inventory)**  
 - **[Modular Container Home Design](https://github.com/Osama261caryp/modular-architecture)**  
 - **[Procurement Automation Tools](https://github.com/Osama261caryp/procurement-tools)**
@@ -74,17 +108,11 @@ With **16+ years** of global experience in supply chain and procurement—and si
 ---
 
 ## 📫 Contact
-- **Mobile (Work):** +971 56 800 7399  
-- **Mobile (Personal):** 056 103 0547  
-- **Email:** osama261261@gmail.com  
+
+- 📱 **Mobile (Work):** +971 56 800 7399  
+- 📱 **Mobile (Personal):** 056 103 0547  
+- 📧 **Email:** osama261261@gmail.com  
 
 ---
 
-**Let’s connect and build smarter supply chains together.**
-"""
-
-# Save the updated file
-readme_file = Path("/mnt/data/README_Final_OsamaElsayed.md")
-readme_file.write_text(final_readme)
-
-readme_file
+**Let’s connect and build smarter, faster, and more reliable supply chains.**
